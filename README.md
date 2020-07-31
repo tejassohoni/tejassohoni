@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://github.com/tejassohoni/facerecogapi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tejassohoni&repo=facerecogapi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img = src="https://github-readme-stats.vercel.app/api/pin/?username=tejassohoni&repo=facerecogapi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
 
 <a href="https://github.com/tejassohoni/indecision-app">
