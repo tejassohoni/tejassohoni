@@ -22,10 +22,10 @@
 Hi there, I'm **Tejas Sohoni**, a **ReactJS and Python developer** 🚀 from India, currently, I'm learning advanced ReactJS, Redux and MERN Stack.
 
 <a href="https://github.com/tejassohoni">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tejassohoni&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tejassohoni&show_icons=true&hide_border=true" />
 </a>
 <a align="right" href="https://github.com/tejassohoni?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassohoni&layout=compact&show_icons=true&card_width=445"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejassohoni&layout=compact&show_icons=true&card_width=445&hide_border=true"/>
 </a>
 
 **Talking about Personal Stuffs:**
