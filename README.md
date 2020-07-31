@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on crwn-clothing
+- 🔭 I’m currently working on [crwn-clothing](https://github.com/tejassohoni/crwn-clothing)
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about ReactJS, Python and any of my projects
 - 📫 How to reach me: [Twitter](https://twitter.com/tejassohoni57), [Facebook](https://www.facebook.com/sohonitejas/)
