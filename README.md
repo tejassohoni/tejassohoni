@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I also produce music aside from programming!
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/tejassohoni">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tejassohoni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/tejassohoni/crwn-clothing">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tejassohoni&repo=crwn-clothing" />
 </a>
