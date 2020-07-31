@@ -23,6 +23,11 @@
   <img = src="https://github-readme-stats.vercel.app/api/pin/?username=tejassohoni&repo=facerecogapi&cache_seconds=1800&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
 
+
+<a href="https://github.com/tejassohoni/expensify-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejassohoni&repo=expensify-app&cache_seconds=1800&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+</a>
+
 <a href="https://github.com/tejassohoni/indecision-app">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejassohoni&repo=indecision-app&cache_seconds=1800&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </a>
