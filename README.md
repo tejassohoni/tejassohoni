@@ -30,7 +30,7 @@ Hi there, I'm **Tejas Sohoni**, a **ReactJS and Python developer** 🚀 from Ind
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Zero To Mastery](https://zerotomastery.io/) working on course curriculum projects;
+- 👨🏽‍💻 I’m currently student with [Zero To Mastery](https://zerotomastery.io/) working on course curriculum projects;
 - 🌱 I’m currently learning MERN Stack; 
 - 🤔 My interests are with Web Apps, Front End Development, etc..;
 - 💼 I’m working as a Hardware Tester at Gtek Computers;
