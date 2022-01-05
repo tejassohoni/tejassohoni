@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi there, I'm **Tejas Sohoni**, a **ReactJS and Python developer** 🚀 from India, currently, I'm learning advanced ReactJS, Redux and MERN Stack.
+Hi there, I'm **Tejas Sohoni**, a **ReactJS and NextJS developer** 🚀 from India, currently, I'm learning NextJS, TailwindCSS.
 
 <a href="https://github.com/tejassohoni">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=tejassohoni&show_icons=true&hide_border=true" />
