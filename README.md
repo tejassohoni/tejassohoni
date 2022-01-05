@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Tejas!
 
-<a href="https://www.linkedin.com/in/tejas-sohoni/">
+<!-- <a href="https://www.linkedin.com/in/tejas-sohoni/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <a href="https://www.reddit.com/user/tejas1597">
@@ -14,7 +14,7 @@
 </a>
 <a href="https://www.facebook.com/sohonitejas/">
   <img align="left" alt="Facebook" width="22px" src="https://image.flaticon.com/icons/svg/889/889102.svg" />
-</a>
+</a> -->
 
 <br />
 <br />
@@ -30,13 +30,13 @@ Hi there, I'm **Tejas Sohoni**, a **ReactJS and Python developer** 🚀 from Ind
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently student with [Zero To Mastery](https://zerotomastery.io/) working on course curriculum projects;
-- 🌱 I’m currently learning MERN Stack; 
-- 🤔 My interests are with Web Apps, Front End Development, etc..;
+- 👨🏽‍💻 I’m currently working on course curriculum projects;
+- 🌱 I’m currently learning Next.JS, TailwindCSS; 
+- 🤔 My interests are building Web Apps & Front End Development;
 - 💼 I’m working as a Apprentice at Gtek Computers;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via tjs1597@gmail.com to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1IOrfRb7PTGy1BWOx00jodB6ZxaOErdQx/view?usp=sharing) to get more info.
+<!-- - 📝 See my [Resume](https://drive.google.com/file/d/1IOrfRb7PTGy1BWOx00jodB6ZxaOErdQx/view?usp=sharing) to get more info. -->
 
 
 **Languages and Tools:**  
